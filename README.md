@@ -37,11 +37,11 @@ CSS personalizado: Para estilos adicionales y alertas específicas.
 5. Para eliminar un gasto, haz clic en la "X" junto al gasto registrado.
 
 ## Ejemplo
-Presupuesto inicial: $1000.
-Gasto: Comida - $400.
-Restante: $600 (alerta amarilla si es menos del 50%).
-Gasto: Renta - $700.
-Restante: -$100 (alerta roja y mensaje "No hay presupuesto").
+- Presupuesto inicial: $1000.
+- Gasto: Comida - $400.
+- Restante: $600 (alerta amarilla si es menos del 50%).
+- Gasto: Renta - $700.
+- Restante: -$100 (alerta roja y mensaje "No hay presupuesto").
 
 ## Instalación
 1. Clona este repositorio:
