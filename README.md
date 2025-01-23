@@ -19,9 +19,10 @@ Toda la lógica está desarrollada con JavaScript mediante clases, utilizando Bo
 - Mensajes de error: Notificaciones cuando se excede el presupuesto.
   
 ## Tecnologías utilizadas
-JavaScript: Toda la lógica de la aplicación está implementada mediante clases.
-Bootstrap: Para el diseño de la interfaz de usuario.
-CSS personalizado: Para estilos adicionales y alertas específicas.
+- HTML: Estructura Principal
+- JavaScript: Toda la lógica de la aplicación está implementada mediante clases.
+- Bootstrap: Para el diseño de la interfaz de usuario.
+- CSS personalizado: Para estilos adicionales y alertas específicas.
 
 ## Uso
 1. Al cargar la página, ingresa tu presupuesto inicial en el campo solicitado.
@@ -45,5 +46,5 @@ CSS personalizado: Para estilos adicionales y alertas específicas.
 
 ## Instalación
 1. Clona este repositorio:
-  git clone https://github.com/tu-usuario/administrador-gastos.git
+  git clone https://github.com/Hugo9591/GastoSemanal.git
 2. Abre el archivo index.html en tu navegador.
