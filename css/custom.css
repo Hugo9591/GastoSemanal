@@ -1,0 +1,57 @@
+body {
+    background: #000428;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #004e92, #000428);  
+background: linear-gradient(to right, #004e92, #000428); 
+}
+header {
+    margin: 30px 0;
+}
+.contenido {
+    padding:20px;
+}
+.contenido-principal {
+    background-color: white;
+    padding: 30px;
+    border-radius: 20px;
+}
+.presupuesto p{
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.presupuesto p span {
+    font-weight: normal;
+}
+#gastos {
+    margin-bottom: 30px;
+}
+.btn1{
+    background: white;
+    color: gray;
+    border: none;
+    cursor: pointer;
+}
+.btn1:hover{
+    color: #000;
+}
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    color: white;
+}
+h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    color:#004e92;
+    font-size: 22px;
+    margin-bottom:30px;
+}
+
+.animacion{
+    animation: opa 4s ease;
+  } 
+
+  @keyframes opa {
+    0%{opacity: 1;}
+    50%{opacity: .9;}
+    100%{opacity: 0;}
+  }
